@@ -13,7 +13,7 @@ const App = () => {
             <div className="title">
               <h3>
                 <a 
-                  href="localhost:3000"
+                  href="https://p-adams.github.io/sms"
                   style={{textDecoration: 'none', color: '#424242'}}
                 >SMS
                 </a>
