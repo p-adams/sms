@@ -1,5 +1,6 @@
 {
   "name": "similar-medication-search",
+  "homepage": "https://p-adams.github.io/sms/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

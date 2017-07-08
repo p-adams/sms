@@ -15,7 +15,6 @@ const SearchBar = inject("store")(observer (class SearchBar extends Component {
             this.props.store.fetch()
         }
     }
-
     render(){
         const store = this.props.store
         const CardStyle = {
