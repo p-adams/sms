@@ -1,0 +1,35 @@
+@import '~antd/dist/antd.css';
+
+.header {
+    background: white;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+div.title, h3, h4 {
+    display: inline-block;
+}
+h3 {
+    color: #424242;
+    margin: 5px;
+    font-size: 25px;
+}
+.content-style {
+    background: #fff;
+    padding: 24;
+    min-width: 300px;
+    min-height: 550px;
+}
+.main-content-style {
+    margin: 5px;
+    padding: 24;
+    min-width: 200px;
+    min-height: 525px;
+}
+.card-div {
+    min-width: 200px;
+}
+.input-wrapper {
+    overflow: hidden;
+    padding-right: .5em;
+}
+
